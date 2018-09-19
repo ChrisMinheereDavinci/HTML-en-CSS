@@ -31,6 +31,10 @@ body {
 background-color: cyan
 }
 
+h1{
+
+}
+
 
 h2{
   margin:0px;
@@ -47,7 +51,6 @@ h1{
 color: rgba(0, 0, 0, 0.445);
 font-size: 20px;
 font-family: monospace;
-
 }
 	
 ul li {
